@@ -85,7 +85,7 @@
         <protobuf-java.version>2.5.0</protobuf-java.version>
         <jedis.version>2.9.0</jedis.version>
         <javax.mail>1.6.2</javax.mail>
-        <poi.version>4.1.2</poi.version>
+        <poi.version>5.3.0</poi.version>
         <commons-email>1.5</commons-email>
         <knife4j.version>3.0.3</knife4j.version>
     </properties>
