@@ -29,7 +29,7 @@
     <artifactId>dlink-connector-pulsar-1.14</artifactId>
 
     <properties>
-        <pulsar.version>2.8.2</pulsar.version>
+        <pulsar.version>3.0.3</pulsar.version>
         <!--<scala.version>2.11.12</scala.version>-->
         <scala.binary.version>2.11</scala.binary.version>
         <hbase.version>1.4.3</hbase.version>
